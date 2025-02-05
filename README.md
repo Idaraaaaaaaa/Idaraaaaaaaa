@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Idaraaaaaaaa
+- 👋 Hi, I’m Esther Idara Atakpa
 - 👀 I’m interested in exploring the power of data to drive business decisions and uncover hidden insights.
 - 🌱 I’m currently learning machine learning techniques and data visualization tools to enhance my analytics skill set.
 - 💞️ I’m looking to collaborate on data-driven projects that aim to solve real-world problems using predictive analytics.
